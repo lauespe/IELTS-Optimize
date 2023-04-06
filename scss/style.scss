@@ -33,7 +33,8 @@ main {
     display:block;
     padding: 20px;
     margin:auto;
-    .logo_animation {
+    }
+.logo_animation {
         width:auto;
         height:auto;
         position:relative;
@@ -41,7 +42,6 @@ main {
         animation-duration: 3s;
         animation-iteration-count: infinite;
         animation-iteration-count: 1; 
-    }
     }
 @keyframes logo_animation{
     0%   {opacity:0}
