@@ -15,7 +15,7 @@ nav {
       padding: 10px 20px; }
       nav .nav__menu .nav__li:hover {
         background-color: #00C2CB;
-        font-size: 1rem;
+        font-size: 1.1rem;
         border-radius: 50%; }
       nav .nav__menu .nav__li a {
         color: #ffff;
